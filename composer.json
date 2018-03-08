@@ -1,0 +1,14 @@
+{
+    "name": "qpz/composer",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "1697161380",
+            "email": "31240353+1697161380@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
